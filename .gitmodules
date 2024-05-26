@@ -1,0 +1,6 @@
+[submodule "TinyOAuth2.0PoC_ClientServer"]
+	path = TinyOAuth2.0PoC_ClientServer
+	url = https://github.com/yutadd/TinyOAuth2.0PoC_ClientServer.git
+[submodule "TinyOAuth2.0PoC_AuthorizationServer"]
+	path = TinyOAuth2.0PoC_AuthorizationServer
+	url = https://github.com/yutadd/TinyOAuth2.0PoC_AuthorizationServer.git
