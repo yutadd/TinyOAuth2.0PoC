@@ -1,4 +1,4 @@
-# OAuth2.0 PoC
+# OAuth2.0 PoC【WIP】
 OAuth2.0のRFCを読みながら実装しているリポジトリです。  
 ## Progress
 Current phase: 第一フェーズ(大まかな実装)
