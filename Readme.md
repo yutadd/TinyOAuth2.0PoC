@@ -16,3 +16,5 @@ $ git clone --recurse-submodules https://github.com/yutadd/TinyOAuth2.0PoC.git
 ```
 ## usage
 start_serverを実行することで内包されるサーバーが開始します。
+## Dev
+git submodule add http://~~
